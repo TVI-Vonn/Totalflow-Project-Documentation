@@ -317,6 +317,163 @@ To bridge the gaps in the Buying feature, integrating the missing sub-items will
 3. **Streamline Communication**: Notes provide flexibility for custom information, improving internal and external coordination.
 
 ---
+# Missing Features in TotalFlow: Selling
+
+The **Selling** feature is essential for managing sales transactions and ensuring accurate financial records. While TotalFlow supports many critical sub-items, some features available in QuickBooks are missing. Below is a detailed breakdown of the sub-items in QuickBooks' "Selling" feature, their functionality, and the importance of integrating the missing ones into TotalFlow.
+
+---
+
+## **Sub-items of Selling**
+
+### **1. Sell Price**  
+**Functionality**: Specifies the standard selling price for the item.  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Crucial for consistent pricing and quick invoicing.
+
+---
+
+### **2. Calculator Sell Price**  
+**Functionality**: Automatically calculates the selling price based on predefined formulas or parameters.  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Saves time and ensures accuracy in setting prices, especially for bulk or dynamic pricing models.
+
+---
+
+### **3. Sales Account**  
+**Functionality**: Assigns the revenue account where sales transactions are recorded.  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Integral for financial tracking and reporting.
+
+---
+
+### **4. Cost Account**  
+**Functionality**: Specifies the account where the cost of goods sold (COGS) is recorded.  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Ensures accurate profit and loss calculations.
+
+---
+
+### **5. Inventory Costing Method**  
+**Functionality**: Defines the method used to value inventory (e.g., FIFO, LIFO, Weighted Average).  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Critical for compliance with accounting standards and inventory valuation.
+
+---
+
+### **6. Tax Type**  
+**Functionality**: Indicates the applicable tax type for the item (e.g., VAT, GST).  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Ensures compliance with tax regulations and accurate billing.
+
+---
+
+### **7. Withholding Tax**  
+**Functionality**: Tracks withholding tax associated with sales transactions.  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Supports compliance with tax laws and reduces manual calculations.
+
+---
+
+### **8. Unit of Measure**  
+**Functionality**: Specifies the unit used to measure the item (e.g., kg, liters, pieces).  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Essential for accurate sales transactions and inventory tracking.
+
+---
+
+### **9. Sell by Date**  
+**Functionality**: Records the date by which the item should be sold, often used for perishable goods.  
+**Status in TotalFlow**: ✅ Available.  
+**Importance**: Ensures stock rotation and reduces waste for time-sensitive items.
+
+---
+
+### **10. Notes**  
+**Functionality**: Provides space for general remarks or additional details about the item.  
+**Status in TotalFlow**: ❌ Not Available.  
+**Importance**:  
+- Useful for documenting custom sales instructions or unique item attributes.  
+- Enhances internal communication and operational clarity.
+
+---
+
+### **11. Notes for Purchase Order**  
+**Functionality**: Allows users to include specific notes or instructions for purchase orders related to the item.  
+**Status in TotalFlow**: ❌ Not Available.  
+**Importance**:  
+- Facilitates clear communication between sales and procurement teams.  
+- Ensures alignment on special requirements or conditions related to the item.
+
+---
+
+## **Recommendations for TotalFlow**
+Adding the missing sub-items to TotalFlow will:  
+1. **Enhance Communication**: Notes and Notes for Purchase Order improve clarity across teams and departments.  
+2. **Streamline Operations**: Provides flexibility to document unique information, reducing manual follow-ups.  
+3. **Increase Competitiveness**: Aligns TotalFlow’s Selling feature more closely with QuickBooks, enhancing user satisfaction.
+
+---
+# Missing Features in TotalFlow: Sorting
+
+The **Sorting** feature is vital for organizing and categorizing inventory items, ensuring easy access and streamlined operations. All sub-items in QuickBooks' "Sorting" feature are currently missing in TotalFlow. Below is a detailed breakdown of these sub-items, their functionality, and why their inclusion is essential.
+
+---
+
+## **Sub-items of Sorting**
+
+### **1. Slug**  
+**Functionality**: A URL-friendly identifier used for unique and consistent item referencing.  
+**Status in TotalFlow**: ❌ Not Available.  
+**Importance**:  
+- Simplifies integration with e-commerce platforms.  
+- Ensures consistency in item identification across systems.  
+
+---
+
+### **2. Category**  
+**Functionality**: Assigns items to a high-level classification (e.g., Electronics, Furniture).  
+**Status in TotalFlow**: ❌ Not Available.  
+**Importance**:  
+- Enhances inventory organization and reporting.  
+- Facilitates category-based pricing and sales analysis.
+
+---
+
+### **3. Sub-Category**  
+**Functionality**: Provides a more specific classification under a broader category (e.g., Laptops under Electronics).  
+**Status in TotalFlow**: ❌ Not Available.  
+**Importance**:  
+- Enables granular organization of inventory.  
+- Improves searchability and customer satisfaction in catalog-driven systems.  
+
+---
+
+### **4. Allow Price Level Categories**  
+**Functionality**: Supports categorization based on pricing tiers (e.g., wholesale, retail).  
+**Status in TotalFlow**: ❌ Not Available.  
+**Importance**:  
+- Facilitates dynamic pricing strategies.  
+- Simplifies managing discounts and promotions for different customer groups.  
+
+---
+
+### **5. SKU (Stock Keeping Unit)**  
+**Functionality**: A unique identifier for tracking inventory items.  
+**Status in TotalFlow**: ❌ Not Available.  
+**Importance**:  
+- Critical for efficient inventory management and reconciliation.  
+- Simplifies the identification of items during sales, purchases, or transfers.  
+
+---
+
+## **Recommendations for TotalFlow**
+Integrating the missing Sorting sub-items will:  
+1. **Improve Inventory Organization**: Categories and sub-categories make inventory easier to navigate and analyze.  
+2. **Enhance E-commerce Integration**: The inclusion of Slug and SKU supports seamless connectivity with online sales platforms.  
+3. **Enable Pricing Flexibility**: Allow Price Level Categories offers dynamic pricing options, boosting competitiveness.  
+4. **Increase Efficiency**: Streamlined sorting reduces errors and improves operational workflows.
+
+---
 
 
 ---
