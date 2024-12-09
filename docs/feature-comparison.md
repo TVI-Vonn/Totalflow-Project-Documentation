@@ -2,6 +2,6 @@
 |--------------------------|-------------------|-------------------|---------------------------------|
 | Company Details          | Available         | Partial           | Lacks currency setup options   |
 | Item Set Up              | Complete          | Basic features    | Must have a flat list of items |
-| Unit of Measure          | Comprehensive     | Limited           | Lacks specificty               |
+| Unit of Measure          | Comprehensive     | Limited           | Lacks specificity              |
 | Method of Inventory      | Standard          | Not Available     |                                | 
 | Warehouse                | Multiple          | Single            | Limited warehouse options      |
